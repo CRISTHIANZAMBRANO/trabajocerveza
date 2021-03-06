@@ -7,7 +7,7 @@ public class BeerExpert {
     private String brown[];
     private String dark[];
     private String amber[];
-
+//Clase a llamar después
     public BeerExpert(String light[], String [] brown, String [] dark, String []amber){
         this.light = light;
         this.brown = brown;
